@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Thaibinh Hoang -- Senior Software Developer -- @YNWA
 
 # THANKS
 
