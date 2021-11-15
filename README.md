@@ -1,8 +1,7 @@
 # Starter Web Repo
 
 This is a simple web project for showing how to use Git and Gibhub together.
-Adding a line for Rebasing example.
-Another change for myfeaturebranch
+Updating emergency fix after stashing.
 
 ## Introduction
 This is an example to show different parts of the Git Repository and various commands 
